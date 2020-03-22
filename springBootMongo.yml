@@ -12,7 +12,7 @@ spec:
         name: springboot
     spec:
       containers:
-      - image: dockergaara/spring-boot-mongo
+      - image: dockergaara/spring
         name: springboot
         ports:
         - name: springboot
